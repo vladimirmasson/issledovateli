@@ -11546,9 +11546,19 @@ footer a:hover, footer a:active, footer a:focus {
 .logo{
   background: url(../assets/img/issl-logo.png) no-repeat;
   background-size:contain;
-  height: 20rem;
+  height: 17rem;
   width: 100%;
   background-position: center;
+}
+
+.about{
+  line-height:36px;
+}
+
+.social{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
 }
 
 .masthead {
