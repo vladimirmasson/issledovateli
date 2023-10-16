@@ -11648,7 +11648,3 @@ footer a:hover, footer a:active, footer a:focus {
     font-family: Schoolbook; /* Гарнитура шрифта */
     src: url(../assets/schoolbook.otf); /* Путь к файлу со шрифтом */
    }
- img{
-   width: 5rem;
-   height:auto;
- }
