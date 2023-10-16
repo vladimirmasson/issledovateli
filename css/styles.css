@@ -104,7 +104,7 @@ hr:not([size]) {
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Schoolbook';
   font-weight: 600;
   line-height: 1.2;
 }
@@ -11299,7 +11299,7 @@ html {
 }
 
 .font-alt {
-  font-family: 'Montserrat', sans-serif; !important;
+  font-family: 'Schoolbook', !important;
 }
 
 .text-gradient {
@@ -11635,3 +11635,8 @@ footer a:hover, footer a:active, footer a:focus {
     max-width: 17rem;
   }
 }
+
+@font-face {
+    font-family: Schoolbook; /* Гарнитура шрифта */
+    src: url(../assets/schoolbook.otf); /* Путь к файлу со шрифтом */
+   }
