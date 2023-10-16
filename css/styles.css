@@ -11543,10 +11543,14 @@ footer a:hover, footer a:active, footer a:focus {
   color: rgba(255, 255, 255, 0.75);
   text-decoration: underline;
 }
+.logo{
+  background: url(../assets/img/issl-logo.png) 100% 100% no-repeat;
+  background-size:cover;
+}
 
 .masthead {
   background-color: #ffffff;
-  background: url(../assets/img/issl-logo.png) 100% 100% no-repeat;
+  
   background-size:cover;
   padding-top: 5rem;
   padding-bottom: 5rem;
