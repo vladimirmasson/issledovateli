@@ -11544,8 +11544,11 @@ footer a:hover, footer a:active, footer a:focus {
   text-decoration: underline;
 }
 .logo{
-  background: url(../assets/img/issl-logo.png) 100% 100% no-repeat;
-  background-size:cover;
+  background: url(../assets/img/issl-logo.png) no-repeat;
+  background-size:contain;
+  height: 20rem;
+  width: 100%;
+  background-position: center;
 }
 
 .masthead {
@@ -11645,3 +11648,7 @@ footer a:hover, footer a:active, footer a:focus {
     font-family: Schoolbook; /* Гарнитура шрифта */
     src: url(../assets/schoolbook.otf); /* Путь к файлу со шрифтом */
    }
+ img{
+   width: 5rem;
+   height:auto;
+ }
