@@ -11324,15 +11324,13 @@ section {
 }
 
 .about{
-  line-height:36px;
-  font-size:30px;
+  line-height:19px;
+  font-size:16px;
   font-weight:400;
-}
 
 .social{
-    display: flex;
-    gap: 16px;
-    justify-content: center;
+  width:40px;
+  height:auto;
 }
 
 .masthead {
@@ -11356,11 +11354,7 @@ section {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 12.5rem;
   }
-  .about{
-  line-height:19px;
-  font-size:16px;
-  font-weight:400;
-}
+  
 }
 @media (min-width: 768px) {
   .masthead .masthead-device-mockup .circle {
@@ -11369,11 +11363,7 @@ section {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 15rem;
   }
-  .about{
-  line-height:19px;
-  font-size:16px;
-  font-weight:400;
-}
+  
 }
 @media (min-width: 992px) {
   .masthead .masthead-device-mockup .circle {
@@ -11382,6 +11372,15 @@ section {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 15rem;
   }
+  .about{
+  line-height:36px;
+  font-size:30px;
+  font-weight:400;
+}
+  .social{
+  width:65px;
+  height:auto;
+}
 }
 @media (min-width: 1200px) {
   .masthead .masthead-device-mockup .circle {
@@ -11390,6 +11389,15 @@ section {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 15rem;
   }
+  .about{
+  line-height:36px;
+  font-size:30px;
+  font-weight:400;
+}
+  .social{
+  width:65px;
+  height:auto;
+}
 }
 @media (min-width: 1400px) {
   .masthead .masthead-device-mockup .circle {
@@ -11398,6 +11406,15 @@ section {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 17rem;
   }
+  .about{
+  line-height:36px;
+  font-size:30px;
+  font-weight:400;
+}
+  .social{
+  width:65px;
+  height:auto;
+}
 }
 
 @font-face {
