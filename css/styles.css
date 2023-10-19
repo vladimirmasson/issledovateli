@@ -11325,6 +11325,8 @@ section {
 
 .about{
   line-height:36px;
+  font-size:30px;
+  font-weight:400;
 }
 
 .social{
@@ -11335,7 +11337,6 @@ section {
 
 .masthead {
   background-color: #ffffff;
-  
   background-size:cover;
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -11355,6 +11356,11 @@ section {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 12.5rem;
   }
+  .about{
+  line-height:19px;
+  font-size:16px;
+  font-weight:400;
+}
 }
 @media (min-width: 768px) {
   .masthead .masthead-device-mockup .circle {
@@ -11363,6 +11369,11 @@ section {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 15rem;
   }
+  .about{
+  line-height:19px;
+  font-size:16px;
+  font-weight:400;
+}
 }
 @media (min-width: 992px) {
   .masthead .masthead-device-mockup .circle {
