@@ -11323,16 +11323,6 @@ section {
   background-position: center;
 }
 
-.about{
-  line-height:19px;
-  font-size:16px;
-  font-weight:400;
-
-.social{
-  width:40px;
-  height:auto;
-}
-
 .masthead {
   background-color: #ffffff;
   background-size:cover;
@@ -11354,7 +11344,14 @@ section {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 12.5rem;
   }
-  
+  .about{
+  line-height:19px;
+  font-size:16px;
+  font-weight:400;}
+  img{
+  width:40px;
+  height:auto;
+}
 }
 @media (min-width: 768px) {
   .masthead .masthead-device-mockup .circle {
@@ -11363,7 +11360,14 @@ section {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 15rem;
   }
-  
+  .about{
+  line-height:19px;
+  font-size:16px;
+  font-weight:400;}
+  img{
+  width:40px;
+  height:auto;
+}
 }
 @media (min-width: 992px) {
   .masthead .masthead-device-mockup .circle {
@@ -11377,7 +11381,7 @@ section {
   font-size:30px;
   font-weight:400;
 }
-  .social{
+  img{
   width:65px;
   height:auto;
 }
@@ -11394,7 +11398,7 @@ section {
   font-size:30px;
   font-weight:400;
 }
-  .social{
+  img{
   width:65px;
   height:auto;
 }
@@ -11411,7 +11415,7 @@ section {
   font-size:30px;
   font-weight:400;
 }
-  .social{
+  img{
   width:65px;
   height:auto;
 }
