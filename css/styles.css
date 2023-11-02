@@ -11318,7 +11318,7 @@ section {
 .logo{
   background: url(../assets/img/issledovateli_logo.svg) no-repeat;
   background-size:contain;
-  height: 25rem;
+  height: 30rem;
   width: 100%;
   background-position: center;
 }
@@ -11365,7 +11365,7 @@ section {
   font-size:16px;
   font-weight:400;}
   img{
-  width:40px;
+  width:28px;
   height:auto;
 }
 }
@@ -11377,16 +11377,16 @@ section {
     max-width: 15rem;
   }
   .about{
-  line-height:36px;
-  font-size:30px;
+  line-height:26px;
+  font-size:21px;
   font-weight:400;
 }
   img{
-  width:65px;
+  width:46px;
   height:auto;
 }
   .social{
-  gap:17px;
+  gap:12px;
 }
 }
 @media (min-width: 992px) {
@@ -11397,16 +11397,16 @@ section {
     max-width: 15rem;
   }
   .about{
-  line-height:36px;
-  font-size:30px;
+  line-height:26px;
+  font-size:21px;
   font-weight:400;
 }
   img{
-  width:65px;
+  width:46px;
   height:auto;
 }
   .social{
-  gap:17px;
+  gap:12px;
 }
 }
 @media (min-width: 1200px) {
@@ -11417,16 +11417,16 @@ section {
     max-width: 15rem;
   }
   .about{
-  line-height:36px;
-  font-size:30px;
+  line-height:26px;
+  font-size:21px;
   font-weight:400;
 }
   img{
-  width:65px;
+  width:46px;
   height:auto;
 }
   .social{
-  gap:17px;
+  gap:12px;
 }
 }
 @media (min-width: 1400px) {
@@ -11437,16 +11437,16 @@ section {
     max-width: 17rem;
   }
   .about{
-  line-height:36px;
-  font-size:30px;
+  line-height:26px;
+  font-size:21px;
   font-weight:400;
 }
   img{
-  width:65px;
+  width:46px;
   height:auto;
 }
   .social{
-  gap:17px;
+  gap:12px;
 }
 }
 
